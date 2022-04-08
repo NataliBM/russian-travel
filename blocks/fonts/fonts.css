@@ -22,5 +22,5 @@
     url(../../Fonts/Inter/Inter-Black/Inter-Black.woff) format("woff"),
     url(../../Fonts/Inter/Inter-Black/Inter-Black.woff2) format("woff2");
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale; 
+    -moz-osx-font-smoothing: grayscale;
   }
