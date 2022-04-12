@@ -9,7 +9,6 @@
 
 .header__lang-link:nth-child(1) {
     padding-right: 18px;
-    text-decoration: underline;
 }
 
 @media screen and (max-width: 568px) {

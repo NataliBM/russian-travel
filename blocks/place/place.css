@@ -2,8 +2,8 @@
     margin: 0;
     padding-bottom: 80px;
     display: grid;
-    grid-template-rows: 1fr minmax(min-content, max-content);
-    grid-template-columns: 1fr minmax(min-content, max-content);
+    grid-template-rows: 1fr minmax(auto-fit, max-content);
+    grid-template-columns: 1fr minmax(auto-fit, max-content);
     gap: 48px 40px;
     grid-template-areas:
   "title wedsite"

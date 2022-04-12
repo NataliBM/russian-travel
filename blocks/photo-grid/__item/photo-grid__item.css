@@ -1,4 +1,6 @@
 .photo-grid__item {
     margin: 0;
     box-sizing: border-box;
+    min-width: 100%;
+    justify-self: stretch;
 }

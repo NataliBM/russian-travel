@@ -4,7 +4,10 @@
     margin: 0 auto;
     font-family: 'Inter-Regular', Arial, sans-serif;
     background-color: #2A2C2F;
+    background-size: 100%;
     color: #FFFFFF;
+    overflow: hidden;
+    box-sizing: border-box;
   }
 
   @media screen and (max-width: 1140px) {
